@@ -5,7 +5,9 @@ Software developed during the creation of the paper "Towards Spatially Mapping t
 - lithiation.py: Python-wrapped LAMMPS simulation for the insertion of Li atoms into a defined region of an aluminium sample
 - delithiation.py: Python-wrapped LAMMPS simulation for the removal of Li atoms from an aluminium sample
 - relax.py: Simple minimization script to relax a sample of aluminiuim prior to insertion or after removal of Li atoms
+- AlLi.meam, library.meam: MEAM potentials files developed Roy et al. and hosted on OpenKIM below: https://openkim.org/id/MEAM_LAMMPS_RoyDuttaChakraborti_2021_AlLi__MO_971738391444_000
 
+  
 All scripts in this repository are open source and freely available for use, modification, or redistribution (see LICENSE).
 Where the scripts in this repository are used, citations of the paper below are greatly appreciated:
 
