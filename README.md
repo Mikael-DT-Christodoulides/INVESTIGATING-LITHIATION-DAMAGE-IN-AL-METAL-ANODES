@@ -2,7 +2,8 @@
 Software, scripts and data developed during the creation of the paper "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach".
 
 **Contents:**
-_SimulationRuns_
+
+**_SimulationRuns_**
 - lithiation.py: _Python-wrapped LAMMPS simulation for the insertion of Li atoms into a defined region of an aluminium sample_
 - delithiation.py: _Python-wrapped LAMMPS simulation for the removal of Li atoms from an aluminium sample_
 - relax.py: _Simple minimization script to relax a sample of aluminiuim after removal of Li atoms_
@@ -11,7 +12,7 @@ _SimulationRuns_
 - Definitions.py, Master.py, Preprocess.py: _Python stack for analysing LAMMPS output data using the disorder map, X._
 - DMGMetric_MATLAB.m: _MATLAB Script for analysing EBSD output data using the disorder map, X._
   
-_Data_
+**_Data_**
 - StressStrainT4.txt: _Stress-strain data for tensile sample T4_
 - TensileDmg.txt: _Disorder (X) output data for tensile samples T1-T3_
 - SimDmgData.zip: _Disorder (X) output data and z positions for simulation runs L1-D_
