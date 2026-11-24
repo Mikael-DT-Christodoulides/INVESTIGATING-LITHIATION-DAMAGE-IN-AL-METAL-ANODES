@@ -75,19 +75,6 @@ file.close()
 
 coreatoms = {key: value for key, value in atoms.items() if value[3] == 0} # the atoms we want to include in GD, damage calculations
 
-# <NOTE>: debugging
-# file = open(filename + "checkingsomething.txt", "w")
-# file.write("3769\n")
-# file.write('''Lattice="67.6962947206 0.0 0.0 0.0 189.8402592401 0.0 0.0 0.0 87.9182135676" Origin="-5.6912447096 -45.6811732596 -16.9234696204" Properties=pos:R:3:Grain:I:1:v_is_surface:R:1\n''')
-# for atom in coreatoms:
-#     x, y, z = coreatoms[atom][0]
-#     file.write(f"{x} {y} {z} {coreatoms[atom][1]} {coreatoms[atom][3]}\n")
-
-# print("alr theres ur file for chekcing")
-# file.close()
-# exit()
-#debugging
-
 print(f"{len(coreatoms)} core atoms found our of {len(atoms)} total.")
 
 
