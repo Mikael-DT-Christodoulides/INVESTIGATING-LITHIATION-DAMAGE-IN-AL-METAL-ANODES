@@ -1,3 +1,13 @@
+# License: MIT 
+# This script is intended for educational and research purposes, and may be freely modified and used for (non-)commercial purposes
+
+# Artificial intelligence tools were not used to generate the script below, and it is the intellectual property of the author. 
+# For any papers or publications that use this script, please cite the original paper, listed below.
+
+# "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach", M. Christodoulides et al., [In submission 2026, DOI tbc]
+
+###################################################################################################################################################################
+
 # PREPROCESSING SCRIPT
 # Mikael D.T. Christodoulides 
 # V1.0.1 - 16th September 2026
