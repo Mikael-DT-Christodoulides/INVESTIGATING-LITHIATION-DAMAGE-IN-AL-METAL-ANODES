@@ -18,6 +18,7 @@ _Data_
 - SimDmgData.zip: _Disorder (X) output data and z positions for simulation runs L1-D_
 
 
+
 Large raw results, including IPF maps and full atomic output files, are available upon reasonable request to the corresponding author: chrmik001@myuct.ac.za
 
 All scripts in this repository are open source and freely available for use, modification, or redistribution (see LICENSE).
