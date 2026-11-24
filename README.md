@@ -8,7 +8,7 @@ Software, scripts and data developed during the creation of the paper "Towards S
 - AlLi.meam, library.meam: _MEAM potentials files developed Roy et al. and hosted on OpenKIM below: https://openkim.org/id/MEAM_LAMMPS_RoyDuttaChakraborti_2021_AlLi__MO_971738391444_000_
 - Al_input.zip: _Unlithiated LAMMPS input file created using Atomsk for simulation runs L1-D_
 - Definitions.py, Master.py, Preprocess.py: _Python stack for analysing LAMMPS output data using the disorder map, X._
-- Dmg_MATLAB.m: _MATLAB Script for analysing EBSD output data using the disorder map, X._
+- DMGMetric_MATLAB.m: _MATLAB Script for analysing EBSD output data using the disorder map, X._
 
 Supplementary results, including stress-strain data, IPF maps and damage heatmaps for tensile tests, are available upon reasonable request to the corresponding author: chrmik001@myuct.ac.za
 
