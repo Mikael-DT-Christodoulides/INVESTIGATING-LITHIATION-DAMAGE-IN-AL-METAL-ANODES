@@ -6,7 +6,7 @@ Software, scripts and data developed during the creation of the paper "Towards S
 - delithiation.py: _Python-wrapped LAMMPS simulation for the removal of Li atoms from an aluminium sample_
 - relax.py: _Simple minimization script to relax a sample of aluminiuim prior to insertion or after removal of Li atoms_
 - AlLi.meam, library.meam: _MEAM potentials files developed Roy et al. and hosted on OpenKIM below: https://openkim.org/id/MEAM_LAMMPS_RoyDuttaChakraborti_2021_AlLi__MO_971738391444_000_
-- Al_input.data: _Unlithiated LAMMPS input file created using Atomsk for simulation runs L1-D_
+- Al_input.zip: _Unlithiated LAMMPS input file created using Atomsk for simulation runs L1-D_
 - Definitions.py, Master.py, Preprocess.py: _Python stack for analysing LAMMPS output data using the disorder map, X._
 - Dmg_MATLAB.m: _MATLAB Script for analysing EBSD output data using the disorder map, X._
 
