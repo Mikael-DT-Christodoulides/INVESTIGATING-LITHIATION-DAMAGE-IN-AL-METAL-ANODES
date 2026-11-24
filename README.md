@@ -1,5 +1,5 @@
 # Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach #
-Software developed during the creation of the paper "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach"
+Software, scripts and data developed during the creation of the paper "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach".
 
 **Contents:**
 - lithiation.py: _Python-wrapped LAMMPS simulation for the insertion of Li atoms into a defined region of an aluminium sample_
