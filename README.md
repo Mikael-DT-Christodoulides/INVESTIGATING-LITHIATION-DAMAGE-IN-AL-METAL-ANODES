@@ -14,8 +14,7 @@ _SimulationRuns_
 _Data_
 - StressStrainT4.txt: _Stress-strain data for tensile sample T4_
 - TensileDmg.txt: _Disorder (X) output data for tensile samples T1-T3_
-- SimFreqPlots.txt: _Frequency distribution disorder data for simulation runs L1-D_
-- SimLinePlot.txt: _Line chart disorder data for simulation runs L1-D_
+- SimDmgData.txt: _Disorder (X) output data and z positions for simulation runs L1-D_
 
 
 Supplementary results, including stress-strain data, IPF maps and damage heatmaps for tensile tests, are available upon reasonable request to the corresponding author: chrmik001@myuct.ac.za
