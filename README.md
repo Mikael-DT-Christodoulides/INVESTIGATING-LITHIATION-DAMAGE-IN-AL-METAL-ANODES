@@ -2,13 +2,17 @@
 Software developed during the creation of the paper "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach"
 
 **Contents:**
-- lithiation.py: Python-wrapped LAMMPS simulation for the insertion of Li atoms into a defined region of an aluminium sample
-- delithiation.py: Python-wrapped LAMMPS simulation for the removal of Li atoms from an aluminium sample
-- relax.py: Simple minimization script to relax a sample of aluminiuim prior to insertion or after removal of Li atoms
-- AlLi.meam, library.meam: MEAM potentials files developed Roy et al. and hosted on OpenKIM below: https://openkim.org/id/MEAM_LAMMPS_RoyDuttaChakraborti_2021_AlLi__MO_971738391444_000
+- lithiation.py: _Python-wrapped LAMMPS simulation for the insertion of Li atoms into a defined region of an aluminium sample_
+- delithiation.py: _Python-wrapped LAMMPS simulation for the removal of Li atoms from an aluminium sample_
+- relax.py: _Simple minimization script to relax a sample of aluminiuim prior to insertion or after removal of Li atoms_
+- AlLi.meam, library.meam: _MEAM potentials files developed Roy et al. and hosted on OpenKIM below: https://openkim.org/id/MEAM_LAMMPS_RoyDuttaChakraborti_2021_AlLi__MO_971738391444_000_
+- LAMMPS_Files: _Folder containing LAMMPS input files for the scripts above_
+- Definitions.py, Master.py, Preprocess.py: _Python stack for analysing LAMMPS output data using the disorder map, X._
+- Dmg_MATLAB.m: _MATLAB Script for analysing EBSD output data using the disorder map, X._
 
-  
+Supplementary results, including stress-strain data, IPF maps and damage heatmaps for tensile tests, are available upon reasonable request to the corresponding author: chrmik001@myuct.ac.za
+
 All scripts in this repository are open source and freely available for use, modification, or redistribution (see LICENSE).
 Where the scripts in this repository are used, citations of the paper below are greatly appreciated:
 
-- M.Christodoulides et al., "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach", [_Submission in progress_]
+- M. Christodoulides et al., "Towards Spatially Mapping the Degradation of Aluminium Anodes: A Group Theoretic Approach", [_Submission in progress_]
